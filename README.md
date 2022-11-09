@@ -1,2 +1,2 @@
-# reactTS-Django-integration
-A reactTS and Django integration template
+# ReactTS-Django-integration
+A ReactTS and Django integration template
