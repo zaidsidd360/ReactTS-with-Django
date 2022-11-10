@@ -2,7 +2,7 @@
 
 After cloning the repo, `cd` into it with
 ```
-cd reactTS-Django-integration
+cd ReactTS-with-Django
 ```
 Once you're inside, run
 ```
