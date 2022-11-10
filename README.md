@@ -1,29 +1,46 @@
 # ReactTS-Django-integration template
 
 After cloning the repo, `cd` into it with
+
 ```
 cd ReactTS-with-Django
 ```
+
 Once you're inside, run
+
 ```
 pip install -r requirements.txt
 ```
+
 This will install all the dependencies from the `requirements.txt` file into your current environment. (Using a virtualenv is highly recommended)
 
-Next, `cd` into the Reactfrontend folder and run 
+Next, `cd` into the Reactfrontend folder with
+
 ```
-npm install 
+cd Reactfrontend
 ```
+
+and run
+
+```
+npm install
+```
+
 This will install all the dependencies in the `package.json` file and create a folder named `node_modules`.
-Next, run 
+Next, run
+
 ```
 npm run build
-``` 
-to build the project for production. Once done with the installation and build process, `cd` back to the base directory using 
+```
+
+to build the project for production. Once done with the installation and build process, `cd` back to the base directory using
+
 ```
 cd ..
 ```
-Finally, run 
+
+Finally, run
+
 ```
 python manage.py run server
 ```
