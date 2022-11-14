@@ -47,4 +47,4 @@ python manage.py run server
 
 Et voila! You just integrated your react code with django. You should now be able to see the boilerplate template for React + Vite in the browser.
 
-Note: Every time you make changes to your frontend code, you'll need to run `npm run build` since we're serving the static files from the dist folder(or the build folder in the case of CRA).
+Note: Every time you make changes to your frontend code, you'll need to run `npm run build` since we're serving the static files from the dist folder(or the build folder in the case of CRA) Also, because idk how to setup HMR in Django with React yet lol.
