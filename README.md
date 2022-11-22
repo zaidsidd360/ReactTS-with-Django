@@ -20,7 +20,7 @@ Next, `cd` into the Reactfrontend folder with
 cd Reactfrontend
 ```
 
-and run
+ run
 
 ```
 npm install
