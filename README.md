@@ -6,7 +6,7 @@ After cloning the repo, `cd` into it with
 cd ReactTS-with-Django
 ```
 
-Once inside, execute
+Once inside, execute the following:
 
 ```
 pip install -r requirements.txt
